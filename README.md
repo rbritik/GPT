@@ -2,7 +2,7 @@
 #### A Decoder based GPT
 - Multiple heads, with self-attention mechanism
 - Residual connections to avoid overfitting
-Source: https://github.com/karpathy/ng-video-lecture/blob/master/gpt.py
+- Source: https://github.com/karpathy/ng-video-lecture/blob/master/gpt.py
 
 
 ### Example output (Gibberish shakespeare) after training on tiny shakespeare dataset : 
