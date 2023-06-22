@@ -5,7 +5,7 @@
 - Source: https://github.com/karpathy/ng-video-lecture/blob/master/gpt.py
 
 
-### Example output (Gibberish shakespeare) after training on tiny shakespeare dataset : 
+### Example output (Gibberish shakespeare :) ) after training on tiny shakespeare dataset : 
 Twenty feel.
 
 BALTHASAR:
